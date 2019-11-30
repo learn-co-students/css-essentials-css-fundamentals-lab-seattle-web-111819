@@ -2,7 +2,6 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
-  
 }
 
 h1 {
@@ -41,33 +40,9 @@ figcaption {
   text-align: center;
 }
 
-#contact {
+#details div {
   display: block;
   float: left;
-  width: 25%;
-  text-align: center;
-  background-color: red;
-}
-
-#correspondence {
-  display: block;
-  float: left;
-  width: 25%;
-  text-align: center;
-  background-color: red;
-}
-
-#links {
-  display: block;
-  float: left;
-  width: 25%;
-  text-align: center;
-  background-color: red;
-}
-
-#follow {
-  display: block;
-  float: right;
   width: 25%;
   text-align: center;
   background-color: red;
