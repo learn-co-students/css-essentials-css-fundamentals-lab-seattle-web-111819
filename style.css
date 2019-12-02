@@ -1,31 +1,23 @@
 body {
-  text-align: center;
   width: 100%;
   height: 100%;
-  margin: 0;
-}
-h1 {
+  margin: auto;
   text-align: center;
 }
 img {
-  align: center;
+  margin: auto;
 }
-a {
+nav a {
   padding-left: 10px;
   padding-right: 10px;
-  background: grey;
+  background-color: grey;
 }
-figcaption {
-  font-size: 10px;
+#featured-property p {
+  width: 800px;
+  margin: auto;
 }
-/* p {
-  text-align: center;
-  max-width: 800px;
-} */
-#details {
-  display: block;
-  
-}
-#details.div {
+#details div{
   float: left;
+  width: 25%;
+  background-color: red;
 }
