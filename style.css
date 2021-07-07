@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1, nav, figure, p {
+  text-align: center;
+}
+
+a nav {
+  padding: 10px;
+  background-color: grey;
+}
+
+p#featured-property {
+  width: 800px;
+  text-align: center;
+}
+
+section#details {
+  display: block;
+  margin: auto;
+}
